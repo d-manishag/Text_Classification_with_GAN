@@ -8,5 +8,7 @@ PyTorch
 Torchtext (for dataset handling)
 NumPy
 Scikit-learn (for evaluation)
+
 IMDb dataset: http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+
 TREC dataset: https://cogcomp.seas.upenn.edu/Data/QA/QC/
